@@ -52,3 +52,11 @@ Ensure the following Python libraries are installed:
 
 This version ensures **better readability**, **clear sectioning**, and **proper formatting** with **bold text**, **bullet points**, and **icons for clarity**. 🚀 Let me know if you'd like any modifications! ✅
 
+## 📚 References
+
+The datasets and additional information used in this project were sourced from the following:
+
+- **Orkunaktas4 (2023).** *Premier League All Players Stats 23/24.* [Kaggle](https://www.kaggle.com/datasets/orkunaktas/premier-league-all-players-stats-2324)  
+- **Putra, I.J. (2023).** *Premier League Player Stats 23/24.* [Kaggle](https://www.kaggle.com/datasets/indrajuliansyahputra/premier-league-player-stats-2324)  
+- **Premier League Official Website (n.d.).** *Premier League Player Stats - Goals.* [PremierLeague.com](https://www.premierleague.com/stats/top/players/goals)  
+
