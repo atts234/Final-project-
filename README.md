@@ -6,9 +6,9 @@ The aim of the project is to develop a predictive dashboard that forecasts playe
 
 ## Data Sources
 The datasets used in this project were sourced from multiple locations:
-- Premier League All Players Stats 23/24** (from Kaggle) - Main dataset containing season-long statistics.
-- Player Overview Dataset** - Includes additional player attributes such as height.
-- Player Stats Dataset** - Provides more detailed statistics such as tackles, passing accuracy, and aerial duels.
+**- Premier League All Players Stats 23/24** (from Kaggle) - Main dataset containing season-long statistics.
+**- Player Overview Dataset** - Includes additional player attributes such as height.
+**- Player Stats Dataset** - Provides more detailed statistics such as tackles, passing accuracy, and aerial duels.
 
 
 
