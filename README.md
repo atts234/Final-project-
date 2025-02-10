@@ -1,4 +1,4 @@
-Predicting Player Fatigue & Injury Risk for Footballers
+# Predicting Player Fatigue & Injury Risk for Footballers
 
 The aim of the project is to develop a predictive dashboard that forecasts player fatigue and injury risk based on match and player data, providing coaches and medical staff with actionable insights to optimize player rotation, manage workload, and prevent injuries. The dashboard will support clubs in making informed decisions to optimize player performance, reduce injury risks, and maintain a healthy squad throughout a congested football season!
 
